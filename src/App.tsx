@@ -7,7 +7,7 @@ import { fetchQuizQuestions } from "./API";
 import { QuestionState, Difficulty } from "./API";
 
 //Styles
-import { GlobalStyle, Wrapper } from "./App.style";
+import { GlobalStyle, Wrapper } from "./App.styles";
 
 export type AnswerObject = {
   question: string;
